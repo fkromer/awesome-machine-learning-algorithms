@@ -25,10 +25,9 @@ CategoricalNB,supervised,,,classification,scikit-learn
 ComplementNB,supervised,,,classification,scikit-learn
 GaussianNB,supervised,,,classification,scikit-learn
 MultinomialNB,supervised,,,classification,scikit-learn
-
-
-
-
+KNeighborsClassifier,supervised,,,classification,scikit-learn
+RadiusNeighborsClassifier,supervised,,,classification,scikit-learn
+NearestCentroid,supervised,,,classification,scikit-learn
 
 
 
@@ -39,3 +38,4 @@ MultinomialNB,supervised,,,classification,scikit-learn
 
 
 ,,,,
+
