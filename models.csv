@@ -18,3 +18,24 @@ StackingClassifier,,learning type,,classification,scikit-learn
 VotingClassifier,,learning type,,classification,scikit-learn
 HistGradientBoostingClassifier,,learning type,,classification,scikit-learn
 GaussianProcessClassifier,supervised,,,classification,scikit-learn
+ClassifierChain,,learning type,,classification,scikit-learn
+MultiOutputClassifier,,learning type,,classification,scikit-learn
+BernoulliNB,supervised,,,classification,scikit-learn
+CategoricalNB,supervised,,,classification,scikit-learn
+ComplementNB,supervised,,,classification,scikit-learn
+GaussianNB,supervised,,,classification,scikit-learn
+MultinomialNB,supervised,,,classification,scikit-learn
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
