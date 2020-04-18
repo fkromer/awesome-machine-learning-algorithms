@@ -1,0 +1,8 @@
+﻿model,learning type,output type,framework
+LogisticRegression,supervised,classification,scikit-learn
+LogisticRegressionCV,supervised,classification,scikit-learn
+PassiveAggressiveClassifier,supervised,classification,scikit-learn
+Perceptron,supervised,classification,scikit-learn
+RidgeClassifier,supervised,classification,scikit-learn
+RidgeClassifierCV,supervised,classification,scikit-learn
+SGDClassifier,supervised,classification,scikit-learn
