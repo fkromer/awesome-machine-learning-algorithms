@@ -16,4 +16,5 @@ GradientBoostingClassifier,,learning type,,classification,scikit-learn
 RandomForestClassifier,,learning type,,classification,scikit-learn
 StackingClassifier,,learning type,,classification,scikit-learn
 VotingClassifier,,learning type,,classification,scikit-learn
-HistGradientBoostingClassifier,,learning type
+HistGradientBoostingClassifier,,learning type,,classification,scikit-learn
+GaussianProcessClassifier,supervised,,,classification,scikit-learn
