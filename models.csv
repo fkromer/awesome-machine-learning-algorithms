@@ -31,6 +31,9 @@ NearestCentroid,supervised,,,classification,scikit-learn
 MLPClassifier,supervised,,,classification,scikit-learn
 LabelPropagation,semi-supervised,,,classification,scikit-learn
 LabelSpreading,semi-supervised,,,classification,scikit-learn
+LinearSVC,supervised,,,classification,scikit-learn
+NuSVC,supervised,,,classification,scikit-learn
+SVC,supervised,,,classification,scikit-learn
 
 
 
