@@ -29,7 +29,8 @@ KNeighborsClassifier,supervised,,,classification,scikit-learn
 RadiusNeighborsClassifier,supervised,,,classification,scikit-learn
 NearestCentroid,supervised,,,classification,scikit-learn
 MLPClassifier,supervised,,,classification,scikit-learn
-
+LabelPropagation,semi-supervised,,,classification,scikit-learn
+LabelSpreading,semi-supervised,,,classification,scikit-learn
 
 
 
