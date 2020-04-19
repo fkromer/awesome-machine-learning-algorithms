@@ -11,7 +11,7 @@ OneVsOneClassifier,,,learning type,classification,scikit-learn
 OutputCodeClassifier,,,learning type,classification,scikit-learn
 AdaBoostClassifier,,learning type,,classification,scikit-learn
 BaggingClassifier,,learning type,,classification,scikit-learn
-ExtraTreesClassifier,,learning type,,classification,scikit-learn
+ExtraTreesClassifier (meta estimator),,learning type,,classification,scikit-learn
 GradientBoostingClassifier,,learning type,,classification,scikit-learn
 RandomForestClassifier,,learning type,,classification,scikit-learn
 StackingClassifier,,learning type,,classification,scikit-learn
@@ -34,6 +34,8 @@ LabelSpreading,semi-supervised,,,classification,scikit-learn
 LinearSVC,supervised,,,classification,scikit-learn
 NuSVC,supervised,,,classification,scikit-learn
 SVC,supervised,,,classification,scikit-learn
+DecisionTreeClassifier,supervised,,,classification,scikit-learn
+ExtraTreeClassifier,supervised,,,classification,scikit-learn
 
 
 
