@@ -28,7 +28,7 @@ MultinomialNB,supervised,,,classification,scikit-learn
 KNeighborsClassifier,supervised,,,classification,scikit-learn
 RadiusNeighborsClassifier,supervised,,,classification,scikit-learn
 NearestCentroid,supervised,,,classification,scikit-learn
-
+MLPClassifier,supervised,,,classification,scikit-learn
 
 
 
