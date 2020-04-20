@@ -36,12 +36,3 @@ NuSVC,supervised,,,classification,scikit-learn
 SVC,supervised,,,classification,scikit-learn
 DecisionTreeClassifier,supervised,,,classification,scikit-learn
 ExtraTreeClassifier,supervised,,,classification,scikit-learn
-
-
-
-
-
-
-
-,,,,
-
