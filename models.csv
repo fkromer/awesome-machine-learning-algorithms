@@ -6,20 +6,20 @@ Perceptron,supervised,,,classification,scikit-learn
 RidgeClassifier,supervised,,,classification,scikit-learn
 RidgeClassifierCV,supervised,,,classification,scikit-learn
 SGDClassifier,supervised,,,classification,scikit-learn
-OneVsRestClassifier,,,learning type,classification,scikit-learn
-OneVsOneClassifier,,,learning type,classification,scikit-learn
-OutputCodeClassifier,,,learning type,classification,scikit-learn
-AdaBoostClassifier,,learning type,,classification,scikit-learn
-BaggingClassifier,,learning type,,classification,scikit-learn
-ExtraTreesClassifier (meta estimator),,learning type,,classification,scikit-learn
-GradientBoostingClassifier,,learning type,,classification,scikit-learn
-RandomForestClassifier,,learning type,,classification,scikit-learn
-StackingClassifier,,learning type,,classification,scikit-learn
-VotingClassifier,,learning type,,classification,scikit-learn
-HistGradientBoostingClassifier,,learning type,,classification,scikit-learn
+OneVsRestClassifier,,TRUE,,classification,scikit-learn
+OneVsOneClassifier,,TRUE,,classification,scikit-learn
+OutputCodeClassifier,,TRUE,,classification,scikit-learn
+AdaBoostClassifier,,TRUE,,classification,scikit-learn
+BaggingClassifier,,TRUE,,classification,scikit-learn
+ExtraTreesClassifier (meta estimator),,TRUE,,classification,scikit-learn
+GradientBoostingClassifier,,TRUE,,classification,scikit-learn
+RandomForestClassifier,,TRUE,,classification,scikit-learn
+StackingClassifier,,TRUE,,classification,scikit-learn
+VotingClassifier,,TRUE,,classification,scikit-learn
+HistGradientBoostingClassifier,,TRUE,,classification,scikit-learn
 GaussianProcessClassifier,supervised,,,classification,scikit-learn
-ClassifierChain,,learning type,,classification,scikit-learn
-MultiOutputClassifier,,learning type,,classification,scikit-learn
+ClassifierChain,,TRUE,,classification,scikit-learn
+MultiOutputClassifier,,TRUE,,classification,scikit-learn
 BernoulliNB,supervised,,,classification,scikit-learn
 CategoricalNB,supervised,,,classification,scikit-learn
 ComplementNB,supervised,,,classification,scikit-learn
